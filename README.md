@@ -20,17 +20,17 @@ It includes simple and easy-to-understand code examples for beginners.
 ---
 
 ## 📂 Repository Structure
-``OOP-and-Fundamentals/
-│
-├── C++/
-│ ├── basics programs
-│ ├── loops and conditions
-│ └── functions examples
-│
-├── Java/
-│ ├── classes and objects
-│ ├── inheritance
-│ ├── polymorphism
-│ └── abstraction and interfaces
-│
-└── README.md``
+``OOP-and-Fundamentals/..
+│..
+├── C++/ ..
+│ ├── basics programs..
+│ ├── loops and conditions..
+│ └── functions examples..
+│..
+├── Java/..
+│ ├── classes and objects..
+│ ├── inheritance..
+│ ├── polymorphism..
+│ └── abstraction and interfaces..
+│..
+└── README.md..``
