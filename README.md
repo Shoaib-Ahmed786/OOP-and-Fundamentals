@@ -18,5 +18,3 @@ It includes simple and easy-to-understand code examples for beginners.
 - **Java** → For Object-Oriented Programming (OOP)
 
 ---
-
-## 📂 Repository Structure
