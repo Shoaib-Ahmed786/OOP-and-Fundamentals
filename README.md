@@ -20,7 +20,7 @@ It includes simple and easy-to-understand code examples for beginners.
 ---
 
 ## 📂 Repository Structure
-OOP-and-Fundamentals/
+``OOP-and-Fundamentals/
 │
 ├── C++/
 │ ├── basics programs
@@ -33,4 +33,4 @@ OOP-and-Fundamentals/
 │ ├── polymorphism
 │ └── abstraction and interfaces
 │
-└── README.md
+└── README.md``
